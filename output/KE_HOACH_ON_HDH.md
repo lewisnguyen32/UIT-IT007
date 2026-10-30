@@ -1,12 +1,13 @@
 # Cách ôn Hệ điều hành
 
-Mục tiêu hiện tại: **nhận diện định nghĩa và trả lời đúng thuật ngữ tiếng Anh**, trước hết Chương 1–2. Bài soạn có sẵn không đồng nghĩa đã giảng, đã tự kiểm hoặc đã thành thạo.
+Mục tiêu hiện tại: **nhận diện định nghĩa và trả lời đúng thuật ngữ tiếng Anh**. Đã có bản ôn Ch1–4; chọn chương/mục linh hoạt theo yêu cầu. Bài soạn có sẵn không đồng nghĩa đã giảng, đã tự kiểm hoặc đã thành thạo.
 
 ## Tài liệu ôn
 
 - [Chương 1](chuong-1/README.md): 1.1–1.4 và 1.2 mở rộng, nguồn C01 PDF 57 trang.
 - [Chương 2](chuong-2/README.md): 2.1–2.5, nguồn W02 PPTX 57 slide.
-- Ch3–4 giữ mục lục đúng ảnh người dùng gửi để học sau. W05 dùng đến slide 28 trong lộ trình cơ sở; từ 29 để tra đọc thêm theo giới hạn tạm dùng.
+- [Chương 3](chuong-3/README.md): terms/lý thuyết ngắn chia đúng 9 mục theo ảnh LMS, nguồn W03; ví dụ tạo tiến trình tập trung terms đọc mã, chưa giải bài tính trong slide.
+- [Chương 4](chuong-4/README.md): terms/lý thuyết ngắn theo chủ đề trong 3 phần LMS, nguồn W04/W05. W05 dùng đến slide 28 trong lộ trình cơ sở; từ 29 để tra đọc thêm theo giới hạn tạm dùng.
 - Chưa có bộ đề đầy đủ để thống kê trọng tâm hoặc khẳng định bao phủ mọi câu thi. Ảnh mẫu yêu cầu một từ tiếng Anh hoặc một số.
 
 ## Học để nhớ đúng từ

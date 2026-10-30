@@ -1,6 +1,6 @@
 # Mục lục ôn Hệ điều hành theo LMS
 
-Chia theo ảnh người dùng cung cấp. Số trang/slide tính từ 1 trong tệp gốc, không phải số mục in trên slide. Bài ôn đã soạn Ch1–2; Ch3–4 mới có mục lục. Không ấn định thời hạn/quỹ học.
+Chia theo ảnh người dùng cung cấp. Số trang/slide tính từ 1 trong tệp gốc, không phải số mục in trên slide. Đã soạn terms/lý thuyết ngắn Ch1–4; Ch4 giữ W05 đến slide 28. Không ấn định thời hạn/quỹ học.
 
 ## Chương 1 — Tổng quan về hệ điều hành
 
@@ -24,11 +24,11 @@ Chia theo ảnh người dùng cung cấp. Số trang/slide tính từ 1 trong t
 
 ## Chương 3 — Quản lý tiến trình
 
-Theo [mục lục Ch3](chuong-3/README.md): Phần 1 có 3.1 khái niệm, 3.2 trạng thái, 3.3 PCB, 3.4 định thời; Phần 2 có 3.5.1 tạo tiến trình, 3.5.2 ví dụ tạo, 3.5.3 kết thúc, 3.6 giao tiếp liên tiến trình, 3.7 tiểu trình. Dùng số mục của ảnh chi tiết người dùng gửi sau ảnh tổng quan.
+Mở [bảng terms theo mục Ch3](chuong-3/README.md): Phần 1 có 3.1 khái niệm, 3.2 trạng thái, 3.3 PCB, 3.4 định thời; Phần 2 có 3.5.1 tạo tiến trình, 3.5.2 terms đọc ví dụ tạo, 3.5.3 kết thúc, 3.6 giao tiếp liên tiến trình, 3.7 tiểu trình. Dùng số mục của ảnh chi tiết người dùng gửi sau ảnh tổng quan.
 
 ## Chương 4 — Định thời CPU
 
-Theo [mục lục Ch4](chuong-4/README.md): Phần 1 gồm khái niệm/loại/tiêu chuẩn và FCFS, SJF, SRTF, Priority; Phần 2 gồm RR, HRRN, Multilevel Queue, Multilevel Feedback Queue; Phần 3 gồm định thời tiểu trình, đa bộ xử lý, thời gian thực, một số hệ điều hành.
+Mở [bảng terms theo chủ đề Ch4](chuong-4/README.md): Phần 1 gồm khái niệm/loại/tiêu chuẩn và FCFS, SJF, SRTF, Priority; Phần 2 gồm RR, HRRN, Multilevel Queue, Multilevel Feedback Queue; Phần 3 đã soạn định thời tiểu trình và đa bộ xử lý. Thời gian thực/một số hệ điều hành chỉ giữ trong mục lục ngoài phạm vi cơ sở.
 
 **Giới hạn tạm dùng:** W05 đến hết slide 28. Các mục từ slide 29 như thời gian thực/định thời trên một số hệ điều hành giữ trong mục lục nhưng chưa đưa vào học/tự kiểm/tiến độ cơ sở.
 
