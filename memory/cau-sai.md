@@ -1,6 +1,9 @@
 # Chỉ mục câu từng sai
 
-Chưa có câu sai được ghi nhận; chưa tạo file chi tiết.
+Chi tiết câu sai:
+
+- [Chương 1](cau-sai/chuong-1.md)
+- [Chương 2](cau-sai/chuong-2.md)
 
 ## File theo chương
 

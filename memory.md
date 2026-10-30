@@ -2,10 +2,10 @@
 
 **Đã dựng cấu trúc và soạn lý thuyết ngắn Ch1–2**, chia đúng mục LMS: Ch1 1.1–1.4 + 1.2 mở rộng; Ch2 2.1–2.5. Trọng tâm: định nghĩa tiếng Việt kèm thuật ngữ tiếng Anh, dấu hiệu nhận diện và cặp dễ nhầm. Ch3–4 mới có mục lục theo ảnh.
 
-- **Mốc học:** chưa có câu tự kiểm/đáp án người dùng trong bộ ôn này. Không suy mức thành thạo từ việc đã soạn bài hoặc nhãn Done trong ảnh LMS.
-- **Tiến độ được ghi nhận tại đây:** Ch1 0/4 mục chính; Ch2 0/5 mục. 0% là chưa có bằng chứng học/tự kiểm/chữa trong bộ nhớ này, không khẳng định người dùng chưa từng học. Một mục tính hoàn thành khi đã giảng/ôn, người dùng đã thử tự kiểm và đã chữa; không cần đúng mọi câu. % = số mục đạt mốc đó / tổng mục chính, trọng số bằng nhau; thành thạo đánh giá riêng. 1.2 mở rộng theo dõi riêng. Ch3–4 chưa mở theo dõi %.
-- **Câu đang chờ:** không có. **Điểm yếu:** chưa đánh giá.
-- **Bài tiếp:** người dùng chọn mục cần ôn; nếu bắt đầu theo thứ tự, mở [1.1](output/chuong-1/1.1-tong-quan.md). Chưa tự giao bài kiểm hoặc bắt đầu bài giảng.
+- **Mốc học:** đã trả lời và chữa các ý tự soạn Ch1–2; chưa ghi nhận giảng/ôn trọn mục hay mức thành thạo.
+- **Tiến độ được ghi nhận tại đây:** Ch1 0/4 mục chính; Ch2 0/5 mục. 0% là chưa có mục nào đạt đủ mốc dưới đây, không khẳng định người dùng chưa từng học. Một mục tính hoàn thành khi đã giảng/ôn, người dùng đã thử tự kiểm và đã chữa; không cần đúng mọi câu. % = số mục đạt mốc đó / tổng mục chính, trọng số bằng nhau; thành thạo đánh giá riêng. 1.2 mở rộng theo dõi riêng. Ch3–4 chưa mở theo dõi %.
+- **Câu đang chờ:** không có. **Điểm yếu:** volatile, multiprogramming, timer, shell, spooling; interrupt đúng nhưng còn đoán. Kernel đã đúng lại; xem [câu sai](memory/cau-sai.md).
+- **Cách tiếp tục:** ôn hoặc chọn câu linh hoạt theo yêu cầu, không cần bám tiến độ hay thứ tự; không tự báo % trước bài mới. Nếu người dùng hỏi tiến độ, dùng bằng chứng và cách tính đã ghi ở trên.
 - **Phạm vi tạm:** W05 đến slide 28; từ 29 đọc thêm, không tự đưa lại vào bài học. Mục 1.2 mở rộng Ch1 chưa được xác nhận loại khỏi thi.
 
 Tra [mục lục](output/THU_TU_HOC_HDH.md), [cách ôn](output/KE_HOACH_ON_HDH.md), [nguồn/phạm vi](memory/nguon-va-pham-vi.md). Kết quả theo chủ đề ở [Ch1](memory/chuong-1.md), [Ch2](memory/chuong-2.md); câu từng sai tra [chỉ mục riêng](memory/cau-sai.md), chỉ đọc chi tiết được chọn.

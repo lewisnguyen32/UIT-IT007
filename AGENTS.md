@@ -13,7 +13,7 @@
 - Ưu tiên hiện tại: lý thuyết ngắn Ch1–2 để nhận diện và trả lời thuật ngữ tiếng Anh. Ch3–4 hiện có mục lục theo ảnh, chưa tự soạn toàn bộ bài. W01 là Ch0 giới thiệu môn.
 - W05 chỉ đến **slide 28** trong lộ trình cơ sở; từ 29 lưu để tra đọc thêm, không tự đưa vào giảng/tự kiểm/% dù ảnh mục lục có phần đó. Slide 29 có chữ “ĐỌC THÊM”; phạm vi thi đến 28 vẫn tạm theo lời “hình như” của người dùng. Mục 1.2 mở rộng Ch1 giữ riêng, chưa được xác nhận loại khỏi thi.
 - Giảng tiếng Việt, chia nhỏ; định nghĩa kèm tiếng Anh trong ngoặc. Luyện hai chiều: dấu hiệu → thuật ngữ, thuật ngữ → chức năng. Giữ chính tả/tên chuẩn theo nguồn và ghi rõ chỗ nguồn mơ hồ.
-- Phân biệt đã soạn, đã giảng, đã trả lời, đã chữa và thành thạo. Không tự nâng tiến độ, chấm câu chưa trả lời hoặc coi nhãn Done trong ảnh là bằng chứng đã làm/chữa tại đây. Báo % theo memory trước bài mới; tôn trọng điểm dừng và điều hướng, không ép đúng hết mới chuyển mục.
+- Phân biệt đã soạn, đã giảng, đã trả lời, đã chữa và thành thạo. Không tự nâng tiến độ, chấm câu chưa trả lời hoặc coi nhãn Done trong ảnh là bằng chứng đã làm/chữa tại đây. Ôn và chọn câu linh hoạt theo yêu cầu, không cần bám thứ tự hay tiến độ từng mục; không tự báo % trước bài mới. Khi được hỏi tiến độ, chỉ báo theo bằng chứng đã ghi và giải thích cách tính nếu dùng %. Tôn trọng điểm dừng và điều hướng, không ép đúng hết mới chuyển mục.
 - Rà độc lập bằng subagent khi lập/đổi kế hoạch, phân loại đề, bộ câu hỏi lớn hoặc nội dung mơ hồ; hỏi đáp thường dựa trên phần đã kiểm không cần gọi lại. Không tự ấn định lịch thi, số ngày hay quỹ học.
 
 ## Câu hỏi và chữa bài
@@ -27,6 +27,6 @@
 
 ## Lưu ít, lưu đúng
 
-- `memory.md` giữ một trang ngắn: bài hiện tại/tiếp, cách tính %, câu đang chờ, điểm yếu chính, liên kết; chỉ đổi khi có thay đổi thật.
+- `memory.md` giữ một trang ngắn: điểm dừng nếu có, cách tính % nếu còn theo dõi, câu đang chờ, điểm yếu chính, liên kết; chỉ đổi khi có thay đổi thật.
 - `memory/chuong-*.md` lưu kết quả theo chủ đề; câu sai và kết quả kiểm tra lại chỉ lưu chi tiết trong `memory/cau-sai/chuong-N.md`, ghi chú chương chỉ dẫn ID/liên kết khi cần. `memory/cau-sai.md` giữ chỉ mục theo chương, không liệt kê từng câu hay sao chép lịch sử/bộ đếm. **Không bắt buộc chia theo phiên**. Giữ câu/đáp án người dùng, kết quả chữa và câu chờ nguyên văn hoặc mã/liên kết bền vững. Không chép lại bài giảng/hội thoại, không tạo tệp mỗi câu hoặc mỗi lượt chat. Mốc cũ không ghi đè memory hiện tại.
 - `output/` giữ lý thuyết/lộ trình dùng lại, không lặp tiến độ; `tmp/study_audit/` chỉ kiểm nguồn có lý do. Giữ nguyên nguồn gốc; khi chỉ tổ chức memory không tự đổi bài/phạm vi. Tạm nghỉ thì lưu điểm dừng, không đặt lịch hay bảo trì định kỳ.
