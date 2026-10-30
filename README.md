@@ -11,7 +11,8 @@ Mở [mục lục học](output/THU_TU_HOC_HDH.md) để chọn phần. Bài so�
 |---|---|
 | [memory.md](memory.md) | Mốc hiện tại, bài tiếp và câu chờ |
 | [AGENTS.md](AGENTS.md) | Quy tắc đọc nguồn và lưu memory tiết kiệm token |
-| `memory/chuong-*.md` | Điểm nhầm/kết quả theo chủ đề, không bắt buộc theo phiên |
+| memory/chuong-*.md | Điểm nhầm/kết quả theo chủ đề, không bắt buộc theo phiên |
+| [memory/cau-sai.md](memory/cau-sai.md) | Chỉ mục câu cần ôn và lịch sử kiểm tra lại theo chương |
 | [memory/nguon-va-pham-vi.md](memory/nguon-va-pham-vi.md) | Mã tài liệu, phạm vi, lưu ý đã đối chiếu |
 | `Lý thuyết/` | PDF/PPTX gốc, giữ nguyên |
 | `Lý thuyết/pdf/` | Cache chữ theo slide/trang, chỉ mục và manifest |
@@ -21,3 +22,9 @@ Mở [mục lục học](output/THU_TU_HOC_HDH.md) để chọn phần. Bài so�
 | `tmp/study_audit/` | Đối chiếu tạm, không lưu tiến độ |
 
 Giữ tên `Lý thuyết/pdf/` theo yêu cầu để gom bản đọc; hiện dùng **Markdown theo slide/trang**, không phải PDF chuyển đổi. Nguồn Ch1 đã là PDF nên không tạo thêm PDF trùng. Hình/sơ đồ/bố cục công thức vẫn tra nguồn gốc khi cần. Không extraction lại mỗi lần học.
+
+## Câu hỏi tự luận ngắn
+
+Có thể yêu cầu câu tự soạn từ bài đã soạn của chương hoặc mục muốn ôn, không cần theo thứ tự hay tiến độ. Mặc định một lượt gồm ba ý; có thể yêu cầu số lượng khác. Mỗi ý trả lời bằng một từ tiếng Anh hoặc một số theo khuôn câu hỏi; nếu tên đầy đủ có nhiều từ thì cần học đủ tên.
+
+Sau khi trả lời, câu được chữa kèm giải thích ngắn, phân biệt hiểu khái niệm với đúng thuật ngữ và định dạng. Câu trả lời sai hoặc chưa nhớ được lưu trong [chỉ mục câu sai](memory/cau-sai.md) để có thể ôn lại; câu đúng khi đoán cũng được ghi nhận là chưa chắc. Các câu đang chờ và điểm cần chú ý nằm trong [memory.md](memory.md). Không tự báo phần trăm tiến độ trước bài mới.
