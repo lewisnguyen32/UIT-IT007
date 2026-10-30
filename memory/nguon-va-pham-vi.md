@@ -24,7 +24,8 @@ Ch3 dùng ảnh chi tiết: 3.1–3.4, 3.5.1–3.5.3, 3.6 IPC, 3.7 tiểu trình
 - Hiện soạn bài Ch1–2. Ch3–4 có nguồn và mục lục để dùng sau, chưa tự giảng/soạn toàn bộ.
 - W05 tạm dùng slide 1–28 theo lời người dùng “hình như chỉ tới slide 28”. Slide 29 thực tế ghi “ĐỊNH THỜI THEO THỜI GIAN THỰC (ĐỌC THÊM)”. Từ 29–59 giữ cache để tra, không đưa vào học/tự kiểm/% cơ sở khi chưa đổi phạm vi. Ảnh mục lục Ch4 có thời gian thực/định thời trên một số OS không tự hủy giới hạn này.
 - Ch1 1.2 mở rộng tách riêng theo LMS; chưa có xác nhận không thi.
-- Chưa có bộ đề đầy đủ được chọn/thống kê. Ảnh `Giữa Kỳ/User/vi-du-tu-luan-mot-tu.png` chỉ là ví dụ định dạng: một số hoặc một từ tiếng Anh; chữ viết tay chưa là đáp án chính thức.
+- Các đề cũ nằm trong `Giữa Kỳ/22-24/` (có đề năm 2024–2025). Người dùng cho biết cấu trúc đề mới thay đổi một chút và thêm 3 câu như trong `Giữa Kỳ/User/`. Ảnh `vi-du-tu-luan-mot-tu.png` cho thấy ba ý a–c của một câu tự luận ngắn, đáp án là một số hoặc một từ tiếng Anh; ảnh chỉ là đoạn trích, chưa xác nhận tổng số ý hay điểm của đề mới. Chữ viết tay chưa là đáp án chính thức.
+- Chưa chọn bộ đề đầy đủ để luyện hoặc thống kê; không tự đọc file đáp án riêng.
 
 ## Cache và đối chiếu đã có
 

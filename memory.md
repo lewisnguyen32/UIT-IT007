@@ -8,6 +8,6 @@
 - **Bài tiếp:** người dùng chọn mục cần ôn; nếu bắt đầu theo thứ tự, mở [1.1](output/chuong-1/1.1-tong-quan.md). Chưa tự giao bài kiểm hoặc bắt đầu bài giảng.
 - **Phạm vi tạm:** W05 đến slide 28; từ 29 đọc thêm, không tự đưa lại vào bài học. Mục 1.2 mở rộng Ch1 chưa được xác nhận loại khỏi thi.
 
-Tra [mục lục](output/THU_TU_HOC_HDH.md), [cách ôn](output/KE_HOACH_ON_HDH.md), [nguồn/phạm vi](memory/nguon-va-pham-vi.md). Điểm nhầm/kết quả khi phát sinh lưu ở [Ch1](memory/chuong-1.md), [Ch2](memory/chuong-2.md), không bắt buộc chia theo phiên.
+Tra [mục lục](output/THU_TU_HOC_HDH.md), [cách ôn](output/KE_HOACH_ON_HDH.md), [nguồn/phạm vi](memory/nguon-va-pham-vi.md). Kết quả theo chủ đề ở [Ch1](memory/chuong-1.md), [Ch2](memory/chuong-2.md); câu từng sai tra [chỉ mục riêng](memory/cau-sai.md), chỉ đọc chi tiết được chọn.
 
 Quy tắc đọc/lưu: [AGENTS.md](AGENTS.md). Đây là mốc hiện tại duy nhất; ghi chú cũ không thay thế mốc này.
