@@ -4,6 +4,8 @@ Chi tiết câu sai:
 
 - [Chương 1](cau-sai/chuong-1.md)
 - [Chương 2](cau-sai/chuong-2.md)
+- [Chương 3](cau-sai/chuong-3.md)
+- [Chương 4](cau-sai/chuong-4.md)
 
 ## File theo chương
 

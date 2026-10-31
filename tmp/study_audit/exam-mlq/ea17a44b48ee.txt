@@ -1,0 +1,201 @@
+
+--- PDF PAGE 1 ---
+ 
+ 
+Trang 1/4 - Đề số 1 
+ 
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN ĐỀ THI GIỮA HK 1 (2024-2025) 
+KHOA KỸ THUẬT MÁY TÍNH Môn thi: HỆ ĐIỀU HÀNH 
+Mã đề số: 1 Thời gian thi: 65 phút 
+ 
+(Sinh viên không được sử dụng tài liệu. Làm bài trực tiếp trên đề) 
+ 
+HỌ VÀ TÊN SV: ………………………………… 
+MSSV: ……………………………………………. 
+STT: ……………………………………………… 
+PHÒNG THI: ……………………………………. 
+ĐIỂM 
+ 
+CÁN BỘ COI THI 
+ 
+PHẦN 1. TRẮC NGHIỆM (6.0đ)  
+Sinh viên chọn câu trả lời chính xác nhất và điền vào bảng trả lời sau:  
+Câu 1 Câu 2 Câu 3 Câu 4 
+    
+Câu 5 Câu 6 Câu 7 Câu 8 
+    
+Câu 9 Câu 10 Câu 11 Câu 12 
+    
+ 
+1. Mô hình đa tiểu trình nào cho phép nhiều tiểu trình người dùng được ánh xạ đến một tiểu trình hạt 
+nhân? (G1) 
+A. Mô hình Nhiều – Một (Many-to-One). B. Mô hình Nhiều – Nhiều (Many-to-Many).  
+C. Mô hình Một – Một (One-to-One). D. Mô hình Một – Nhiều (One-to-Many). 
+2. Kiểu cấu trúc hệ điều hành nào là sự kết hợp nhiều cách tiếp cận để giải quyết các nhu cầu 
+về hiệu suất, bảo mật, nhu cầu sử dụng? (G1) 
+A. Cấu trúc vi nhân.     B. Cấu trúc phân lớp (layer). 
+C. Cấu trúc lai.     D. Cấu trúc Monolithic. 
+3. Tiến trình ở trạng thái waiting khi nào? (G1) 
+A. Tiến trình vừa được tạo.   B. Các lệnh của tiến trình đang được thực thi.  
+C. Tiến trình đã kết thúc.   D. Tiến trình đợi I/O hoàn tất, hoặc đợi tín hiệu. 
+4. Hệ thống lưu trữ được tổ chức phân cấp dựa theo đặc điểm nào trong các đặc điểm sau? (G1) 
+(1) Tốc độ truy xuất.  
+(2) Chi phí. 
+(3) Khả năng thực thi các tập lệnh đa dụng. 
+(4) Khả năng lưu trữ dữ liệu khi không có nguồn điện. 
+A. (1), (2)  B. (1), (4)  C. (1), (2), (3)   D. (1), (2), (4) 
+5. “Ánh xạ file/ thư mục vào thiết bị thứ cấp tương ứng” là một trong những dịch vụ của thành phần nào 
+trong hệ điều hành? (G1) 
+A. Quản lý bộ nhớ chính.   B. Quản lý file (tập tin). 
+C. Quản lý tiến trình.    D. Quản lý hệ thống I/O. 
+
+--- PDF PAGE 2 ---
+ 
+ 
+Trang 2/4 - Đề số 1 
+ 
+6. Các dịch vụ bảo vệ (protection) và an ninh (security) được hệ điều hành cung cấp KHÔNG nhằm 
+mục đích nào dưới đây? (G1) 
+A. Lưu vết người dùng để tính phí hoặc đơn giản để thống kê.   
+B. Kiểm soát được các truy xuất tài nguyên của hệ thống.    
+C. Hai tiến trình khác nhau không được ảnh hưởng nhau.   
+D. Chỉ các người dùng được phép sử dụng hệ thống mới truy cập được tài nguyên của hệ thống. 
+7. Bộ định thời CPU chọn tiến trình trong hàng đợi nào để thực thi kế tiếp? (G1) 
+A. Hàng đợi công việc.    B. Hàng đợi I/O.  
+C. Hàng đợi sẵn sàng.    D. Hàng đợi thiết bị. 
+8. Chuyển ngữ cảnh là gì? (G1) 
+A. Quá trình nạp một tập tin thực thi vào bộ nhớ chính.   
+B. Quá trình CPU chuyển từ tiến trình này đến tiến trình khác.   
+C. Quá trình chuyển tiến trình từ bộ nhớ sang đĩa.   
+D. Quá trình khởi tạo khối dữ liệu Process Control Block (PCB) của tiến trình. 
+9. Chọn phát biểu SAI về hệ thống đa chương? (G1) 
+A. Công việc/chương trình được thi hành tuần tự.    
+B. Một công việc đang thực thi được gọi là một tiến trình (process). 
+C. Khi một công việc phải chờ, hệ điều hành chuyển sang thực thi công việc khác. 
+D. Nhiều công việc được nạp đồng thời vào bộ nhớ.  
+10. Chọn phát biểu ĐÚNG về giải thuật định thời Multilevel Feedback Queue? (G1) 
+A. Giải thuật Multilevel Feedback Queue sử dụng chế độ quyết định không trưng dụng.  
+B. Tiến trình được gán cố định vào một hàng đợi, mỗi hàng đợi sử dụng giải thuật định thời riêng. 
+C. Tiến trình có giá trị Response Ratio nhỏ nhất sẽ được chọn thực thi kế tiếp.  
+D. Một tiến trình đã chờ quá lâu ở một hàng đợi có độ ưu tiên thấp có thể được chuyển đến hàng đợi có 
+độ ưu tiên cao hơn (cơ chế aging). 
+11. Trên các hệ thống thực hiện định thời theo cách tiếp cận đa xử lý đối xứng, sử dụng cân bằng tải sẽ 
+làm ảnh hưởng đến tính chất gì? (G1) 
+A. Target latency.     B. Virtual run time.  
+C. Processor affinity.     D. Dispatch latency.   
+12. Chọn phát biểu SAI về giải thuật định thời First-Come, First-Served (FCFS)? (G1) 
+A. Tiến trình nào yêu cầu CPU trước sẽ được cấp phát CPU trước.   
+B. Tiến trình được cấp CPU sẽ thực thi đến khi kết thúc hoặc bị blocked do I/O. 
+C. Hàng đợi FIFO được sử dụng để cài đặt, trong đó tiến trình mới xuất hiện được thêm vào cuối hàng 
+đợi. 
+D. Khi CPU trống, hệ điều hành sẽ chọn tiến trình có CPU burst ngắn nhất để được thực thi tiếp theo. 
+ 
+PHẦN 2. TỰ LUẬN – (G1)  
+Câu 1 (1.5đ): Trả lời ngắn gọn các câu hỏi sau. Câu trả lời phải là một con số (ví dụ: 20) hoặc một từ 
+(bằng tiếng Anh, ví dụ: process, interrupt, …).  
+a. Ba phương pháp truyền tham số khi sử dụng lời gọi hệ thống bao gồm sử dụng thanh ghi, vùng nhớ và 
+phương pháp nào? 
+Trả lời: …………………………………………………………………………………………………….. 
+b. Khi một chương trình được nạp vào bộ nhớ, các biến toàn cục của nó được chứa ở đâu? 
+Trả lời: …………………………………………………………………………………………………….. 
+c. Cho đoạn chương trình sau:  
+ 
+
+--- PDF PAGE 3 ---
+ 
+ 
+Trang 3/4 - Đề số 1 
+ 
+#include <stdio.h> 
+#include <unistd.h> 
+int x = 24;  
+int main() 
+{ 
+int i; 
+printf("hello\n");  
+int f = fork(); 
+for (i = 0; i <= 2; i++){ 
+int k = fork(); 
+printf("%d\n", f + i); 
+x = x + i; 
+} 
+printf("hi\n"); 
+if (f == 0) { 
+printf("%d\n", x); //in ra một số nguyên 
+fork(); 
+x = x + 2; 
+} 
+return 0; 
+} 
+Biết rằng khi chạy đoạn chương trình trên, tất cả các lệnh fork() đều được thực hiện thành công và 
+chương trình kết thúc bình thường, hỏi có bao nhiêu tiến trình mà giá trị cuối cùng của biến x (ở mỗi 
+tiến trình) là 25?  
+Trả lời: …………………………………………………………………………………………………….. 
+Câu 2 (2.5đ):  
+Cho 5 tiến trình P1, P2, P3, P4, P5 với thời gian vào ready queue, độ ưu tiên và thời gian cần CPU 
+tương ứng như bảng sau: 
+Process Arrival Time Burst Time 
+P1 8 5 
+P2 3 4 
+P3 0 10 
+P4 6 12 
+P5 11 11 
+Vẽ giản đồ Gantt và tính thời gian đợi trung bình, thời gian đáp ứng trung bình, thời gian hoàn thành 
+trung bình khi thực hiện các giải thuật định thời sau: 
+a) SRTF 
+b) Round Robin với quantum time = 7 
+Sinh viên làm bài tự luận vào phần bên dưới: 
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+
+--- PDF PAGE 4 ---
+ 
+ 
+Trang 4/4 - Đề số 1 
+ 
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+Hết. 
+Đây là phần đánh giá chuẩn đầu ra của đề thi theo đề cương chi tiết môn học (CĐRMH) (sinh 
+viên không cần quan tâm mục này trong quá trình làm bài). 
+Bảng chuẩn đầu ra môn học 
+CĐRMH  Mô tả  
+G1 Nắm vững kiến thức nền tảng về lĩnh vực CNTT 
+G2 Giao tiếp, thảo luận được với cá nhân và nhóm tập thể 
+Duyệt đề của Khoa/Bộ Môn       Giảng viên ra đề             
+
+--- PDF PAGE 5 ---
+
+
+--- PDF PAGE 6 ---
+
+
+--- PDF PAGE 7 ---
+
+
+--- PDF PAGE 8 ---
+

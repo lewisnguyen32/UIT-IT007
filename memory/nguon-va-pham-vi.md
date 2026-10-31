@@ -26,6 +26,7 @@ Ch3 dùng ảnh chi tiết: 3.1–3.4, 3.5.1–3.5.3, 3.6 IPC, 3.7 tiểu trình
 - Ch1 1.2 mở rộng tách riêng theo LMS; chưa có xác nhận không thi.
 - Các đề cũ nằm trong `Giữa Kỳ/22-24/` (có đề năm 2024–2025). Người dùng cho biết cấu trúc đề mới thay đổi một chút và thêm 3 câu như trong `Giữa Kỳ/User/`. Ảnh `vi-du-tu-luan-mot-tu.png` cho thấy ba ý a–c của một câu tự luận ngắn, đáp án là một số hoặc một từ tiếng Anh; ảnh chỉ là đoạn trích, chưa xác nhận tổng số ý hay điểm của đề mới. Chữ viết tay chưa là đáp án chính thức.
 - Chưa chọn bộ đề đầy đủ để luyện hoặc thống kê; không tự đọc file đáp án riêng.
+- Tra riêng theo câu hỏi người dùng ngày 31/10/2026 về MLQ/MLFQ: **2024–2025 GK1, trang PDF 2, câu 10** hỏi trực tiếp về Multilevel Feedback Queue; **2023–2024 GK2, trang PDF 2, câu 6** có Multilevel Feedback Queue và Multilevel Queue trong các phương án. Đã đối chiếu cả hai trang gốc và rà độc lập; đây là bằng chứng xuất hiện trong đề cũ, không phải thống kê đầy đủ hay xác nhận đề sắp tới. Cache/hash và giới hạn kiểm tra ở [audit MLQ/MLFQ](../tmp/study_audit/exam-mlq/README.md); không cần trích lại nguồn không đổi.
 
 ## Cache và đối chiếu đã có
 

@@ -1,0 +1,89 @@
+[
+  {
+    "file": "Giữa Kỳ\\22-24\\[BHT CNPM] HDH 2022-2023 GK1.pdf",
+    "sha256": "510c572a2127e43272d31967645277dc7a60f68a58a6332b8290a069785db91e",
+    "pages": 4,
+    "pages_checked": 4,
+    "char_counts": [
+      2085,
+      2210,
+      3270,
+      4248
+    ],
+    "answer_section_stopped": false,
+    "cache": "tmp\\study_audit\\exam-mlq\\b758c187e2ba.txt",
+    "hits": [
+      {
+        "page": 3,
+        "context": "B. Không thể sử dụng giải thuật Round Robin nếu muốn các tiến trình có độ ưu tiên khác nhau. \nC. Khi thực hiện định thời theo độ ưu tiên, tiến trình có độ ưu tiên thấp có thể không bao giờ được thực \nthi. \nD. Giải thuật Multilevel Queue cho phép tiến trình di chuyển giữa các hàng đợi khác nhau. \n \nPHẦN 2. TỰ LUẬN (2.5đ) – (G1)  \nCho 5 tiến trình P1, P2, P3, P4, P5 với thời gian vào ready queue và thời gian cần CPU tương ứng như "
+      }
+    ]
+  },
+  {
+    "file": "Giữa Kỳ\\22-24\\[BHT CNPM] HDH 2023-2024 GK1 (Có đáp án).pdf",
+    "sha256": "a51dc7f0bce478da48b6b90c5c27a3b868a79d062447a9c64422e85fdbf84ff1",
+    "pages": 4,
+    "pages_checked": 4,
+    "char_counts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "answer_section_stopped": false,
+    "cache": "tmp\\study_audit\\exam-mlq\\3df441ed4403.txt",
+    "hits": []
+  },
+  {
+    "file": "Giữa Kỳ\\22-24\\[BHT CNPM] HDH 2023-2024 GK2.pdf",
+    "sha256": "edb8e29c175e7cdc3fef14a5d4e85b0baeaf3874484c112bfde0e6f797eeb070",
+    "pages": 4,
+    "pages_checked": 4,
+    "char_counts": [
+      1988,
+      2996,
+      1983,
+      4496
+    ],
+    "answer_section_stopped": false,
+    "cache": "tmp\\study_audit\\exam-mlq\\0a319dfd5b32.txt",
+    "hits": [
+      {
+        "page": 2,
+        "context": "(G1) \nA. Người dùng.  B. Hệ thống.   C. Giải thuật.  D. Tài nguyên. \n6. Chọn phát biểu SAI trong các phát biểu về giải thuật định thời bên dưới? (G1) \nA. Giải thuật Multilevel Feedback Queue sử dụng chế độ quyết định trưng dụng.  \nB. Giải thuật Round Robin sử dụng một giả thiết ngầm là tất cả các tiến trình đều có tầm quan trọng \nngang nhau. \nC. Trong giải thuật Highest Response Ratio Next, tiến trình có giá trị Response Ratio nhỏ nhất sẽ được "
+      },
+      {
+        "page": 2,
+        "context": "ngang nhau. \nC. Trong giải thuật Highest Response Ratio Next, tiến trình có giá trị Response Ratio nhỏ nhất sẽ được \nchọn thực thi kế tiếp.  \nD. Giải thuật Multilevel Queue chia hàng đợi ready thành nhiều hàng đợi riêng biệt. \n7. Tập tin thực thi được nạp vào bộ nhớ nhờ công cụ nào? (G1) \nA. Loader  B. Linker  C. Compiler  D. Assembler \n8. Tiến trình ở trạng thái running KHÔNG thể chuyển sang trạng thái nào dưới đây? (G1) "
+      }
+    ]
+  },
+  {
+    "file": "Giữa Kỳ\\22-24\\[BHT CNPM] HDH 2024-2025 GK1.pdf",
+    "sha256": "d741a55627064e86102314a210805a42c3c980daa7f75e7dfd51bb52e35f224b",
+    "pages": 8,
+    "pages_checked": 8,
+    "char_counts": [
+      1831,
+      2897,
+      1766,
+      4496,
+      0,
+      0,
+      0,
+      0
+    ],
+    "answer_section_stopped": false,
+    "cache": "tmp\\study_audit\\exam-mlq\\ea17a44b48ee.txt",
+    "hits": [
+      {
+        "page": 2,
+        "context": "B. Một công việc đang thực thi được gọi là một tiến trình (process). \nC. Khi một công việc phải chờ, hệ điều hành chuyển sang thực thi công việc khác. \nD. Nhiều công việc được nạp đồng thời vào bộ nhớ.  \n10. Chọn phát biểu ĐÚNG về giải thuật định thời Multilevel Feedback Queue? (G1) \nA. Giải thuật Multilevel Feedback Queue sử dụng chế độ quyết định không trưng dụng.  \nB. Tiến trình được gán cố định vào một hàng đợi, mỗi hàng đợi sử dụng giải thuật định thời riêng. \nC. Tiến trình có giá trị Response Ratio nhỏ nhất sẽ được chọn thực thi kế tiếp.  "
+      },
+      {
+        "page": 2,
+        "context": "C. Khi một công việc phải chờ, hệ điều hành chuyển sang thực thi công việc khác. \nD. Nhiều công việc được nạp đồng thời vào bộ nhớ.  \n10. Chọn phát biểu ĐÚNG về giải thuật định thời Multilevel Feedback Queue? (G1) \nA. Giải thuật Multilevel Feedback Queue sử dụng chế độ quyết định không trưng dụng.  \nB. Tiến trình được gán cố định vào một hàng đợi, mỗi hàng đợi sử dụng giải thuật định thời riêng. \nC. Tiến trình có giá trị Response Ratio nhỏ nhất sẽ được chọn thực thi kế tiếp.  \nD. Một tiến trình đã chờ quá lâu ở một hàng đợi có độ ưu tiên thấp có thể được chuyển đến hàng đợi có "
+      }
+    ]
+  }
+]

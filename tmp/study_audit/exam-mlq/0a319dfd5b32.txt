@@ -1,0 +1,199 @@
+
+--- PDF PAGE 1 ---
+ 
+ 
+Trang 1/4 - Đề số 1 
+ 
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN ĐỀ THI GIỮA HK 2 (2023-2024) 
+KHOA KỸ THUẬT MÁY TÍNH Môn thi: HỆ ĐIỀU HÀNH 
+Mã đề số: 1 Thời gian thi: 65 phút 
+ 
+(Sinh viên không được sử dụng tài liệu. Làm bài trực tiếp trên đề) 
+ 
+ 
+Chữ ký của Cán bộ coi thi 
+ 
+ 
+ 
+ 
+STT 
+ 
+……. 
+ 
+Họ và tên: …………………………………………… 
+MSSV: ………………………………………………. 
+Phòng thi: ……………………………………………. 
+ĐIỂM 
+Bằng số:  ………………. 
+Bằng chữ: ……………… 
+ 
+PHẦN 1. TRẮC NGHIỆM (6.0đ)  
+Sinh viên chọn câu trả lời chính xác nhất và điền vào bảng trả lời sau:  
+Câu 1: Câu 5: Câu 9: 
+Câu 2: Câu 6: Câu 10: 
+Câu 3: Câu 7: Câu 11: 
+Câu 4: Câu 8: Câu 12: 
+ 
+1. Loại bộ định thời nào có thể làm giảm mức độ đa chương của hệ thống? (G1) 
+A. Bộ định thời ngắn.     B. Bộ định thời vừa.  
+C. Bộ định thời dài.    D. Bộ định thời dài và bộ định thời vừa. 
+ 
+2. “Cung cấp giao diện chung đến các trình điều khiển thiết bị” là một trong những nhiệm vụ của thành 
+phần nào trong hệ điều hành? (G1) 
+A. Quản lý bộ nhớ chính.   B. Quản lý hệ thống lưu trữ thứ cấp. 
+C. Quản lý tiến trình.    D. Quản lý hệ thống I/O. 
+3. Chọn phát biểu ĐÚNG trong các phát biểu sau đây? (G1) 
+A. Hệ điều hành là chương trình trung gian giữa phần mềm máy tính và người sử dụng, có chức năng 
+điều khiển và phối hợp việc sử dụng phần mềm và cung cấp các dịch vụ cơ bản cho các ứng dụng.  
+B. Bộ nhớ chính là thiết bị lưu trữ không bay hơi có dung lượng lớn duy nhất mà CPU truy xuất trực 
+tiếp.   
+C. Hệ thống đa chương cho phép nhiều công việc được nạp đồng thời vào bộ nhớ.   
+D. Hệ thống gom cụm là một dạng hệ thống đơn bộ xử lý, nhưng gồm nhiều hệ thống làm việc với nhau. 
+4. Cấu trúc phân lớp (layer) là một trong các dạng cấu trúc của hệ điều hành. Lựa chọn nào dưới đây 
+KHÔNG phải là một đặc điểm của kiểu cấu trúc này? (G1) 
+A. Lớp dưới cùng là phần cứng.   
+B. Lớp trên chỉ phụ thuộc lớp dưới.    
+C. Lớp trên cùng là giao tiếp với người dùng.     
+D. Một lớp chỉ có thể gọi các hàm của lớp trên và các hàm của nó được gọi bởi lớp dưới. 
+
+--- PDF PAGE 2 ---
+ 
+ 
+Trang 2/4 - Đề số 1 
+ 
+5. Thời gian đáp ứng, thời gian hoàn thành, thời gian chờ là các tiêu chuẩn định thời theo hướng nào? 
+(G1) 
+A. Người dùng.  B. Hệ thống.   C. Giải thuật.  D. Tài nguyên. 
+6. Chọn phát biểu SAI trong các phát biểu về giải thuật định thời bên dưới? (G1) 
+A. Giải thuật Multilevel Feedback Queue sử dụng chế độ quyết định trưng dụng.  
+B. Giải thuật Round Robin sử dụng một giả thiết ngầm là tất cả các tiến trình đều có tầm quan trọng 
+ngang nhau. 
+C. Trong giải thuật Highest Response Ratio Next, tiến trình có giá trị Response Ratio nhỏ nhất sẽ được 
+chọn thực thi kế tiếp.  
+D. Giải thuật Multilevel Queue chia hàng đợi ready thành nhiều hàng đợi riêng biệt. 
+7. Tập tin thực thi được nạp vào bộ nhớ nhờ công cụ nào? (G1) 
+A. Loader  B. Linker  C. Compiler  D. Assembler 
+8. Tiến trình ở trạng thái running KHÔNG thể chuyển sang trạng thái nào dưới đây? (G1) 
+A. waiting.  B. terminated.  C. new.  D. ready. 
+9. Khi thực hiện định thời theo cách tiếp cận đa xử lý đối xứng, nếu mỗi bộ xử lý tự tổ chức hàng đợi 
+của riêng nó thì có thể làm xuất hiện vấn đề nào dưới đây? (G1) 
+A. Nhiều bộ xử lý có thể chọn định thời cùng một tiểu trình. 
+B. Có tiểu trình không được bộ xử lý nào chọn. 
+C. Khối lượng công việc của các bộ xử lý khác nhau. 
+D. Các bộ xử lý luôn trong tình trạng quá tải.   
+10. Chọn phát biểu SAI về giải thuật định thời SJF ở chế độ không trưng dụng? (G1) 
+A. Hàm chọn lựa được thực thi khi CPU trống.   
+B. Khi tiến trình được cấp CPU thì nó sẽ thực thi cho đến khi kết thúc. 
+C. Khi một tiến trình kết thúc, một tiến trình khác có thời gian thực thi ngắn nhất sẽ được chọn. 
+D. SJF ở chế độ không trưng dụng còn được gọi là Shortest-Remaining-Time-First (SRTF). 
+ 
+11. Quá trình khởi tạo tiến trình KHÔNG bao gồm bước nào sau đây? (G1) 
+A. Cấp phát một định danh duy nhất cho tiến trình.   
+B. Cấp phát không gian nhớ để nạp tiến trình.   
+C. Đưa tiến trình vào hàng đợi công việc để thực thi.   
+D. Khởi tạo khối dữ liệu Process Control Block (PCB) cho tiến trình. 
+12. Lựa chọn nào dưới đây KHÔNG phải là một loại giao diện người dùng? (G1) 
+A. Command Line (CLI).   B. Graphics User Interface (GUI). 
+C. Touch Screen.    D. System Call.  
+PHẦN 2. TỰ LUẬN – (G1)  
+Câu 1 (0.5đ): Xác định các phát biểu dưới đây là ĐÚNG hay SAI? (Lưu ý: Chỉ cần trả lời là Đúng hoặc 
+Sai, không cần giải thích gì thêm). 
+a. Hệ thống đơn bộ xử lý chỉ có một bộ xử lý đa dụng (general-purpose processor) với một lõi duy nhất 
+dùng để thực thi các tập lệnh đa dụng (bao gồm các lệnh trong các tiến trình). 
+b. Chế độ quyết định trưng dụng có chi phí thấp hơn chế độ không trưng dụng nhưng đánh đổi lại bằng 
+thời gian đáp ứng tốt hơn vì không có trường hợp một tiến trình độc chiếm CPU quá lâu. 
+Câu 2 (1đ): Trả lời ngắn gọn các câu hỏi sau. Câu trả lời phải là một con số (ví dụ: 24) hoặc một từ (tối 
+đa 2 tiếng, ví dụ: tiến trình, ngắt, …).  
+a. Hai chế độ hoạt động cơ bản của hệ điều hành là chế độ người dùng và chế độ nào?  
+b. Cho đoạn chương trình sau:  
+ 
+ 
+
+--- PDF PAGE 3 ---
+ 
+ 
+Trang 3/4 - Đề số 1 
+ 
+#include <stdio.h> 
+#include <unistd.h> 
+int x = 20;  
+int main() 
+{ 
+int i; 
+printf("hello\n"); 
+int f = fork(); 
+if (f < 0) { 
+printf("%d\n", f); //in ra một số nguyên 
+fork(); 
+} 
+for (i = 0; i <= 2; i++){ 
+int k = fork(); 
+printf("%d\n", f + i); 
+if (k == 0) 
+fork(); 
+else  
+   printf("hi\n"); 
+} 
+printf("hi\n"); 
+return 0; 
+} 
+Biết rằng khi chạy đoạn chương trình trên, tất cả các lệnh fork() đều được thực hiện thành công và 
+chương trình kết thúc bình thường, hãy cho biết trong số các tiến trình in ra từ “hello”, mỗi tiến trình 
+chuyển sang trạng thái running bao nhiêu lần? 
+Câu 3 (2.5đ):  
+Cho 5 tiến trình P1, P2, P3, P4, P5 với thời gian vào ready queue và thời gian cần CPU tương ứng như 
+bảng sau: 
+Process Arrival Time Burst Time Priority 
+P1 2 11 1 
+P2 0 8 4 
+P3 7 5 5 
+P4 9 10 3 
+P5 13 6 2 
+Vẽ giản đồ Gantt và tính thời gian đợi trung bình, thời gian đáp ứng trung bình, thời gian hoàn thành 
+trung bình khi thực hiện các giải thuật định thời sau: 
+a) Round Robin với quantum time = 6 
+b) Preemptive Priority (độ ưu tiên 1 > 2 > 3 …) 
+Sinh viên làm bài tự luận vào phần bên dưới: 
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+
+--- PDF PAGE 4 ---
+ 
+ 
+Trang 4/4 - Đề số 1 
+ 
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+ .......................................................................................................................................................................  
+Hết. 
+Đây là phần đánh giá chuẩn đầu ra của đề thi theo đề cương chi tiết môn học (CĐRMH) (sinh 
+viên không cần quan tâm mục này trong quá trình làm bài). 
+Bảng chuẩn đầu ra môn học 
+CĐRMH  Mô tả  
+G1 Nắm vững kiến thức nền tảng về lĩnh vực CNTT 
+G2 Giao tiếp, thảo luận được với cá nhân và nhóm tập thể 
+Duyệt đề của Khoa/Bộ Môn       Giảng viên ra đề             
