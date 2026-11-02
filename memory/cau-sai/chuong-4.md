@@ -1,5 +1,12 @@
 # Câu cần ôn — Chương 4
 
+## CS-C04-003 | Phần 1 | cần ôn | 2026-11-01
+- Nguồn: người dùng tự tổng kết; [bài Priority](../../output/chuong-4/phan-1-priority.md), W04 slide 49.
+- Câu hỏi: với SJF: burst bé nhất, Priority: priority bé nhất, RR: FIFO+quantum limit, HRRN: ratio lớn nhất, FCFS: FIFO, chuẩn chưa
+- Trả lời sai đầu tiên (01/11/2026): Priority: priority bé nhất
+- Đáp án: Priority chọn độ ưu tiên cao nhất; số priority nhỏ hay lớn biểu thị ưu tiên cao phụ thuộc quy ước đề.
+- Lỗi: Mặc định số priority nhỏ nhất luôn là ưu tiên cao nhất. Các ý tổng kết SJF, RR, HRRN, FCFS đúng về tiêu chí; đã nhắc chỉ xét tiến trình đã đến và sẵn sàng. Đã chữa; chưa kiểm tra lại.
+
 Theo khuôn và quy tắc đọc tại [chỉ mục](../cau-sai.md). Không coi một lần đúng lại là thành thạo.
 
 ## CS-C04-001 | Phần 1 | cần ôn | 2026-10-31

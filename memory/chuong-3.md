@@ -2,6 +2,8 @@
 
 Mốc hiện tại ở [memory.md](../memory.md); bài soạn ở [mục lục Ch3](../output/chuong-3/README.md).
 
+- Mục 3.5 (01/11/2026), ảnh bài fork người dùng gửi: `x=24; f=fork();` rồi ba vòng `i=0..2`, mỗi vòng `fork(); x=x+i;`; sau vòng lặp, nhánh `f==0` in `x`, gọi `fork()` và cộng 2. Người dùng hỏi “8 tiến trình 27, 16 tiến trình 29 đúng không” — đúng nếu xét giá trị x cuối chương trình: 8 tiến trình x=27, 16 tiến trình x=29, tổng 24 (giả sử fork thành công). Đã giải thích lệnh in x nằm trước fork cuối và trước cộng 2 nên được gọi 8 lần với giá trị 27; không có lệnh in x=29. Chưa kết luận thành thạo.
+
 - Phần 1, mục 3.1–3.2: câu tự soạn về chương trình đang thực thi, vùng cấp phát động, vùng dữ liệu tạm lời gọi hàm, trạng thái chờ CPU và trạng thái chờ I/O/sự kiện; trả lời `process`, `heap`, `stack`, `ready`, `waiting` — đều đúng, đã chữa (W03 slide 5–6, 11).
 - Phần 1: câu tự soạn điền `control` trong process control block, trạng thái `ready` sau I/O và `switch` trong context switch — đúng, đã chữa (W03 slide 12, 16, 27). Nhầm ready queue với PCB: [CS-C03-001](cau-sai/chuong-3.md).
 - Mục 3.3: chưa nhớ program counter: [CS-C03-002](cau-sai/chuong-3.md).
